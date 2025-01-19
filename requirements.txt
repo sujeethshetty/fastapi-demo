@@ -1,0 +1,15 @@
+# pystan must be installed before prophet
+# you may need to pip install it on it's own
+# before installing the remaining requirements
+# pip install pystan==3.7.0
+
+pystan
+
+fastapi
+uvicorn
+
+prophet
+joblib
+pandas
+plotly
+yfinance
